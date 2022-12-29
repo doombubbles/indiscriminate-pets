@@ -1,7 +1,7 @@
 ﻿using System.Linq;
-using Assets.Scripts.Data;
-using Assets.Scripts.Data.Cosmetics.Pets;
-using Assets.Scripts.Data.TrophyStore;
+using Il2CppAssets.Scripts.Data;
+using Il2CppAssets.Scripts.Data.Cosmetics.Pets;
+using Il2CppAssets.Scripts.Data.TrophyStore;
 using BTD_Mod_Helper;
 using BTD_Mod_Helper.Extensions;
 using IndiscriminatePets;
